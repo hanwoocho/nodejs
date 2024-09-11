@@ -1,0 +1,2 @@
+mongodb+srv://apple2341:Zcompile88!@@apple.xt1wl.mongodb.net/?retryWrites=true&w=majority&appName=apple
+mongodb+srv://apple2341:Zcompile88!@@apple.xt1wl.mongodb.net/?retryWrites=true&w=majority&appName=apple
